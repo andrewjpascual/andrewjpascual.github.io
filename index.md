@@ -1,6 +1,6 @@
 <html> 
   <head> 
-      <title> CSC131 HTML Practice </title>
+      
   </head>
   <body> 
     <h1> CSC 131 HTML Practice Assignment </h1>
